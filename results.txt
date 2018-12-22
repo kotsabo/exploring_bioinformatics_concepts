@@ -1,0 +1,30 @@
+****************************
+sequence: gi|1039759167|ref|XR_001781070.1| PREDICTED: Mus musculus potassium voltage gated channel, Shab-related subfamily, member 1 (Kcnb1), transcript variant X5, misc_RNA
+length: 10147
+e value: 1.309e-10
+
+****************************
+sequence: gi|1039759166|ref|XR_374418.2| PREDICTED: Mus musculus potassium voltage gated channel, Shab-related subfamily, member 1 (Kcnb1), transcript variant X4, misc_RNA
+length: 10424
+e value: 1.309e-10
+
+****************************
+sequence: gi|1039759165|ref|XR_374417.2| PREDICTED: Mus musculus potassium voltage gated channel, Shab-related subfamily, member 1 (Kcnb1), transcript variant X3, misc_RNA
+length: 11014
+e value: 1.309e-10
+
+****************************
+sequence: gi|1039759163|ref|XM_017315733.1| PREDICTED: Mus musculus potassium voltage gated channel, Shab-related subfamily, member 1 (Kcnb1), transcript variant X2, mRNA
+length: 11202
+e value: 1.309e-10
+
+****************************
+sequence: gi|1039759161|ref|XM_017315732.1| PREDICTED: Mus musculus potassium voltage gated channel, Shab-related subfamily, member 1 (Kcnb1), transcript variant X1, mRNA
+length: 11291
+e value: 1.309e-10
+
+****************************
+sequence: gi|366039935|ref|NM_008420.4| Mus musculus potassium voltage gated channel, Shab-related subfamily, member 1 (Kcnb1), mRNA
+length: 11153
+e value: 1.309e-10
+
